@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{91DE98D0-67DA-443C-B2C9-2FD113D1DAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaEvent", "LambdaEvent\LambdaEvent.csproj", "{F87398A1-7754-45E5-AE58-879CE1987CD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91DE98D0-67DA-443C-B2C9-2FD113D1DAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91DE98D0-67DA-443C-B2C9-2FD113D1DAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91DE98D0-67DA-443C-B2C9-2FD113D1DAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87398A1-7754-45E5-AE58-879CE1987CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87398A1-7754-45E5-AE58-879CE1987CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87398A1-7754-45E5-AE58-879CE1987CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87398A1-7754-45E5-AE58-879CE1987CD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
