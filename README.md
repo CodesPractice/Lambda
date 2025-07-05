@@ -4,11 +4,9 @@ This repository contains a clear and beginner-friendly example that demonstrates
 
 📁 What’s Inside
 ✅ Expression - Lambda 
-
 Learn how to use short, single-line lambda expressions to perform operations like squaring a number or multiplying it by a constant.
 
 ✅ Statement - Lambda 
-
 Understand how to write multi-line logic inside lambdas, such as checking whether a number is even or odd, using if statements within a lambda body.
 
 🐷 PiggyBank 
